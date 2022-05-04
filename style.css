@@ -1,0 +1,20 @@
+#home-title {
+    text-align: center;
+    color:cornsilk;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+#recipe-list {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px;
+}
